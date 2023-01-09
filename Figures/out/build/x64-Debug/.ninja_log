@@ -1,0 +1,14 @@
+# ninja log v5
+33	1785	6949952798577517	CMakeFiles/demo.dir/Figure.cpp.obj	251eb891d3f30d2c
+136	1838	6949952798733790	CMakeFiles/demo.dir/ReacTrain.cpp.obj	c097bd985843762d
+104	1882	6949952798733790	CMakeFiles/demo.dir/Traingle.cpp.obj	c35a836edad662f5
+253	1883	6949952799202529	CMakeFiles/demo.dir/Quad.cpp.obj	e3be1811321f0ba0
+67	1885	6949952799202529	CMakeFiles/demo.dir/Print_info.cpp.obj	3c6225d58100ccf7
+293	1886	6949952799515020	CMakeFiles/demo.dir/Rectangle.cpp.obj	e5f19568fe0802a1
+3	1887	6949952799671269	CMakeFiles/demo.dir/main.cpp.obj	4d25dc8031cf27b9
+214	1888	6949952799827550	CMakeFiles/demo.dir/EquTrain.cpp.obj	ce73d5b7e55e45c5
+327	1932	6949952800452489	CMakeFiles/demo.dir/Square.cpp.obj	e0c44588497e102c
+176	2013	6949952801233764	CMakeFiles/demo.dir/IsoTrain.cpp.obj	27fe9e2184285eea
+1788	2471	6949952805765012	CMakeFiles/demo.dir/Paral.cpp.obj	1cca78d845da0432
+1838	2496	6949952806077820	CMakeFiles/demo.dir/Rhomb.cpp.obj	e968cdd56f49ffcf
+2496	3504	6949952815934183	demo.exe	7e35c3e8ae51c42c
