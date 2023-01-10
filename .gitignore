@@ -100,18 +100,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# Editor-based Rest Client
-.idea/httpRequests
-
-# Android studio 3.1+ serialized cache file
-.idea/caches/build_file_checksums.ser
-
-# vscode ================================
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 # C++ ================================
  Prerequisites
@@ -161,4 +149,15 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+
+
+.ninja_deps
+.ninja_log
+VSInheritEnvironments.txt
+build.ninja
+cmake_install.cmake
+demo.exe
+demo.ilk
+demo.pdb
+
 
