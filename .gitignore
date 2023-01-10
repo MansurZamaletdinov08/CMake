@@ -3,6 +3,7 @@ X64/
 out/
 build/
 x64-Debug/
+CmakeFiles/
 
 CMakeLists.txt.user
 CMakeCache.txt
