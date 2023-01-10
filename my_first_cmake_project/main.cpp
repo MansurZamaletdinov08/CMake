@@ -9,5 +9,5 @@ int main() {
 	std::cout << "Ââåäèòå èìÿ: ";
 	std::cin >> str;
 
-	std::cout << "Çäğàâñòâóéòå, Âèòàëèé!" << std::endl;
+	std::cout << "Çäğàâñòâóéòå, " << str << "!" << std::endl;
 }
